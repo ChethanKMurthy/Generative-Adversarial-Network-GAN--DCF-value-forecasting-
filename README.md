@@ -47,15 +47,7 @@ This project utilizes artificial intelligence techniques, specifically Generativ
   - **Visualization:** Use matplotlib or similar libraries to plot graphs comparing NPVs of different banks.
   - **Reporting:** Generate summary reports or output files that highlight key findings and the recommended investment choice.
 
-### 6. Deployment and Usage
 
-- **Objective:** Enable users to utilize the project for financial analysis.
-
-- **Implementation:** Provide a user-friendly interface (`main.py`) or script to run the project, generate forecasts, and obtain investment recommendations based on the latest data and models.
-
-### 7. Continuous Improvement and Contribution
-
-- **Objective:** Foster collaboration and improvement through community contributions.
 
 - **Implementation:** Host the project on GitHub, inviting users to contribute enhancements, bug fixes, or new features via pull requests. Maintain active communication and documentation to support contributors and users.
 
