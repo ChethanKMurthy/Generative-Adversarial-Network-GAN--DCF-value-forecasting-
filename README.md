@@ -49,8 +49,4 @@ This project utilizes artificial intelligence techniques, specifically Generativ
 
 
 
-- **Implementation:** Host the project on GitHub, inviting users to contribute enhancements, bug fixes, or new features via pull requests. Maintain active communication and documentation to support contributors and users.
 
-## Installation
-
-1. Clone the repository:
